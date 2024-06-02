@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Anime Movie</string>
+
+    <string name="title_natsue">Natsu e no Tunnel, Sayonara no Deguchi</string>
+    <string name="title_koe_no_katachi">Koe no Katachi</string>
+    <string name="title_violet">Violet Evergarden Movie</string>
+    <string name="title_your_name">Kimi no Na wa</string>
+    <string name="title_i_want_to_eat_your_pancreas">Kimi no Suizou wo Tabetai</string>
+    <string name="title_suzume">Suzume no Tojimari</string>
+    <string name="title_tenki_no_ko">Tenki No Ko</string>
+    <string name="title_no_game_no_life">No Game No Life</string>
+
+    <string name="desc">Description :</string>
+    <string name="desc_your_name">Mitsuha Miyamizu, seorang gadis SMA, ingin menjalani kehidupan sebagai anak laki-laki di kota Tokyo yang ramai — sebuah mimpi yang sangat kontras dengan kehidupannya saat ini di pedesaan. Sementara itu di kota, Taki Tachibana menjalani kehidupan yang sibuk sebagai siswa sekolah menengah sambil melakukan pekerjaan paruh waktunya dan berharap untuk masa depan di bidang arsitektur.
+
+Suatu hari, Mitsuha terbangun di sebuah ruangan yang bukan miliknya dan tiba-tiba mendapati dirinya menjalani kehidupan impian di Tokyo—tetapi di dalam tubuh Taki! Di tempat lain, Taki mendapati dirinya menjalani kehidupan Mitsuha di pedesaan yang sederhana. Untuk mencari jawaban atas fenomena aneh ini, mereka mulai mencari satu sama lain.
+
+Kimi no Na wa. berkisah tentang tindakan Mitsuha dan Taki, yang mulai memberikan dampak dramatis pada kehidupan masing-masing, menjalinnya menjadi sebuah jalinan yang disatukan oleh takdir dan keadaan.</string>
+    <string name="desc_natsue">Keluarga Kaoru Touno berantakan. Sepeninggal salah satu saudaranya dan perceraian orang tuanya, ia tidak lagi merasakan kedamaian di rumah. Setelah konfrontasi sengit dengan ayahnya, Kaoru keluar dari rumahnya dan mendapati dirinya berada di depan sebuah terowongan misterius, yang menariknya masuk. Bingung dengan apa yang dilihatnya di dalam, dia bergegas ke pintu keluar, mengambil seekor burung yang terlihat identik dengan almarhumnya. hewan peliharaan dalam perjalanan keluar.
+
+Saat keluar, Kaoru menyadari bahwa, meskipun dia hanya menghabiskan beberapa menit di dalam terowongan, satu minggu penuh telah berlalu. Pengalaman aneh ini membawanya teringat rumor tentang "Terowongan Urashima"—sebuah lorong yang mengabulkan permintaan sebagai imbalan atas umur seseorang. Mengingat kebangkitan burung peliharaannya, Kaoru bertanya-tanya apakah kunjungan lagi dapat membantu memperbaiki kehidupannya yang kacau.
+
+Namun, ketika dia kembali ke pintu masuk terowongan misterius, Kaoru menyadari bahwa dia telah diikuti oleh Anzu Hanashiro, seorang siswa pindahan baru di kelasnya. Dia juga mengetahui rumor tersebut dan memintanya untuk membantunya melakukan eksperimen—ternyata dia juga memiliki keinginan yang hanya dapat dikabulkan oleh terowongan tersebut.</string>
+    <string name="desc_suzume">Suatu hari dalam perjalanan ke sekolah, Suzume Iwato menemukan Souta Munakata, seorang pemuda yang sedang mencari daerah yang ditinggalkan. Gadis SMA itu mengarahkan Souta ke reruntuhan terdekat, tapi karena penasaran, dia sendiri memutuskan untuk pergi ke tujuan yang sama.
+
+Sesampainya di sana, Suzume menemukan sebuah pintu terisolasi dengan alam semesta seperti mimpi terbentang di baliknya—tempat yang bisa dia lihat dan rasakan, tapi tidak bisa dia masuki. Sebuah batu aneh tergeletak di tanah di dekatnya, tapi batu itu berubah menjadi makhluk mirip kucing dan bergegas pergi saat Suzume mengangkatnya. Tiba-tiba merasa takut, dia kembali ke sekolahnya, tidak menyadari bahwa tindakannya membiarkan pintu terbuka akan mempunyai konsekuensi.
+
+Dengan dilepaskannya "batu kunci", kejahatan di alam semesta lain kini dapat dengan bebas melarikan diri dan mendatangkan malapetaka di seluruh Jepang. Berniat untuk memperbaiki kesalahan berbahayanya, Suzume bergabung dengan Souta—yang tujuan sebenarnya adalah mencegah kejahatan membusuk—dalam menemukan dan mengunci semua pintu yang terbuka sebelum negara hancur.</string>
+    <string name="desc_violet">Beberapa tahun telah berlalu sejak berakhirnya Perang Besar. Ketika menara radio di Leidenschaftlich terus dibangun, telepon akan segera menjadi lebih relevan, yang menyebabkan penurunan permintaan akan "Boneka Memori Otomatis". Meski begitu, ketenaran Violet Evergarden terus meningkat setelah kesuksesannya yang terus-menerus dalam menulis surat. Namun, terkadang satu hal yang Anda rindukan justru satu hal yang tak kunjung muncul.
+
+Film Violet Evergarden mengikuti Violet yang terus memahami konsep emosi dan arti cinta. Pada saat yang sama, dia mengejar secercah harapan bahwa pria yang pernah mengatakan kepadanya, "Aku mencintaimu," mungkin masih hidup bahkan setelah bertahun-tahun berlalu.</string>
+    <string name="desc_koe_no_katachi">Sebagai pemuda yang liar, siswa sekolah dasar Shouya Ishida berusaha mengalahkan kebosanan dengan cara yang paling kejam. Ketika Shouko Nishimiya yang tunarungu pindah ke kelasnya, Shouya dan seluruh kelasnya tanpa berpikir mengganggunya untuk bersenang-senang. Namun, ketika ibunya memberi tahu sekolah, dia dikucilkan dan disalahkan atas semua yang dilakukan padanya. Dengan pindahnya Shouko dari sekolah, Shouya bergantung pada belas kasihan teman-teman sekelasnya. Dia dikucilkan tanpa perasaan selama masa sekolah dasar dan menengah, sementara para guru menutup mata.
+
+Kini di tahun ketiga sekolah menengahnya, Shouya masih diganggu oleh kesalahannya saat masih kecil. Dengan tulus menyesali perbuatannya di masa lalu, dia memulai perjalanan penebusan: bertemu Shouko sekali lagi dan menebus kesalahannya.
+
+Koe no Katachi menceritakan kisah mengharukan tentang reuni Shouya dengan Shouko dan upaya jujurnya untuk menebus dirinya sendiri, sambil terus dihantui oleh bayang-bayang masa lalunya.</string>
+    <string name="desc_i_want_to_eat_your_pancreas">Protagonis yang menyendiri: seorang kutu buku yang sangat terlepas dari dunia tempat dia tinggal. Dia tidak tertarik pada orang lain dan sangat yakin bahwa tidak ada seorang pun yang tertarik padanya. Kisahnya dimulai ketika dia menemukan sebuah buku tulisan tangan berjudul Living with Dying. Dia segera mengidentifikasinya sebagai buku harian rahasia milik teman sekelasnya yang populer dan ceria, Sakura Yamauchi. Dia kemudian menceritakan kepadanya tentang penyakit pankreas yang dia derita dan bahwa waktu yang tersisa terbatas. Hanya keluarganya yang tahu tentang penyakit mematikannya; bahkan sahabatnya pun tidak menyadarinya. Meskipun wahyu ini, ia tidak menunjukkan simpati atas penderitaannya, namun terperangkap dalam gelombang kegigihan Sakura, ia akhirnya mengakui untuk menemaninya selama hari-hari yang tersisa.
+
+Saat pasangan yang bertolak belakang berinteraksi, hubungan mereka semakin kuat, terjalin melalui pilihan yang mereka buat setiap hari. Sikapnya yang acuh tak acuh dan tidak dapat diprediksi mengganggu aliran kehidupan sang protagonis yang tenang, perlahan-lahan membuka hatinya saat ia menemukan dan menerima makna hidup yang sebenarnya.</string>
+    <string name="desc_tenki_no_ko">Tokyo saat ini sedang mengalami hujan lebat yang tampaknya mengganggu aktivitas setiap orang yang tinggal di sana tanpa henti. Di tengah hujan lebat ini, tibalah seorang siswa sekolah menengah yang melarikan diri, Hodaka Morishima, yang berjuang untuk menghidupi dirinya sendiri secara finansial—akhirnya mendapatkan pekerjaan di sebuah penerbit kecil-kecilan. Pada saat yang sama, Hina Amano yang yatim piatu juga berusaha mencari pekerjaan untuk menghidupi dirinya dan adik laki-lakinya.
+
+Kedua takdir tersebut saling berkaitan ketika Hodaka berusaha menyelamatkan Hina dari orang-orang yang mencurigakan, dan memutuskan untuk melarikan diri bersama. Selanjutnya, Hodaka menemukan bahwa Hina memiliki kekuatan aneh namun menakjubkan: kemampuan memanggil matahari setiap kali dia berdoa. Dengan mempertimbangkan cuaca Tokyo yang tidak biasa, Hodaka melihat potensi dari kemampuan ini. Dia menyarankan agar Hina menjadi "gadis sinar matahari"—seseorang yang akan membersihkan langit bagi orang-orang saat mereka sangat membutuhkannya.
+
+Hal-hal mulai terlihat baik pada awalnya. Namun, sudah menjadi rahasia umum bahwa kekuasaan selalu memiliki harga yang mahal...</string>
+    <string name="desc_no_game_no_life">Enam belas ras makhluk hidup menghuni Disboard, sebuah dunia yang diawasi oleh Tet, Satu-satunya Dewa Sejati. Yang terendah dari enam belas—Imanitas—terdiri dari manusia, ras yang tidak memiliki ketertarikan pada sihir. Di dunia yang segala sesuatunya diputuskan melalui permainan sederhana, umat manusia sepertinya tidak punya jalan keluar dari kesulitan mereka—namun kedatangan dua orang luar membawa perubahan.
+
+Di Bumi, saudara tiri Sora dan Shiro adalah dua orang tertutup yang tidak terpisahkan dan mendominasi berbagai game online dengan nama pengguna "Blank". Meski terkenal di internet, pasangan ini percaya bahwa hidup hanyalah permainan membosankan. Namun, setelah menanggapi pesan dari pengguna yang tidak dikenal, mereka tiba-tiba dipindahkan ke Disboard. Pengirim misterius itu ternyata adalah Tet, yang memberi tahu mereka tentang aturan mutlak dunia. Setelah Tet pergi, Sora dan Shiro mulai mencari informasi lebih lanjut dan tempat tinggal, membawa mereka ke Elkia—satu-satunya kerajaan Imanity yang tersisa.
+
+Di sana, keduanya bertemu Stephanie Dola, seorang gadis emosional yang bersaing demi kedaulatan kerajaan. Dalam keputusasaan, dia berusaha untuk mendapatkan kembali tahta ayahnya, namun kebodohannya membuat tujuannya tidak dapat dicapai. Terinspirasi oleh motivasi dan semangat gadis itu, Sora dan Shiro memutuskan untuk membantu Stephanie mengembalikan Elkia, yang pada akhirnya bertujuan untuk menjadi penguasa baru di dunia yang penuh teka-teki.</string>
+</resources>
